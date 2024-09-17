@@ -1,7 +1,7 @@
 # BigShop Sales Analysis (2021-2022)
 ## Project Overview
 This project involves the analysis of BigShop's furniture sales data for the years 2021 and 2022. The primary objective of the analysis is to provide meaningful insights to stakeholders and higher management, helping them understand sales performance, identify key customers, and measure product performance. The analysis includes data exploration, insights generation, and visualization through Python, SQL, and Power BI.
-## Dashboard Link:https://app.powerbi.com/links/k8AsEFCfo8?ctid=4b469bf3-7edf-4593-9b77-e4807953c730&pbi_source=linkShare
+## Dashboard Link:[https://app.powerbi.com/links/k8AsEFCfo8?ctid=4b469bf3-7edf-4593-9b77-e4807953c730&pbi_source=linkShare](https://app.powerbi.com/view?r=eyJrIjoiNjgwMmRiYWQtZGExNS00M2U2LTkxMDYtMDQ0NWMyMzUwZjA5IiwidCI6IjRiNDY5YmYzLTdlZGYtNDU5My05Yjc3LWU0ODA3OTUzYzczMCJ9)
 ## Tools Used
 * Python & Pandas: For exploratory data analysis (EDA) and data cleaning.
 * SQL: To generate deeper insights from the dataset.
